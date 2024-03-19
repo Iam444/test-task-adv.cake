@@ -1,0 +1,17 @@
+{
+    "name": "iam444/test-task",
+    "autoload": {
+        "psr-4": {
+            "Iam444\\TestTask\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Iam444",
+            "email": "iam444@mail.ru"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    }
+}

@@ -1,0 +1,7 @@
+### Composer ###
+composer.phar
+/vendor/
+
+### IDE ###
+.idea/
+.idea_modules/
